@@ -1,6 +1,6 @@
 {
   "name": "@nvqh01/random-number",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "huynvq <nvqh01@gmail.com>",
   "homepage": "https://github.com/nvqh01/lerna-monorepo#readme",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/nvqh01/lerna-monorepo/issues"
-  }
+  },
+  "gitHead": "470c0b58064c65aa9137df317742598eb17d8d81"
 }
