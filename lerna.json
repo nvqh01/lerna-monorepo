@@ -1,10 +1,5 @@
 {
   "packages": ["packages/*"],
-  "npmClientArgs": [
-    "--strict-ssl=false",
-    "--always-auth=true",
-    "--_auth=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"
-  ],
   "useWorkspaces": true,
   "version": "independent"
 }
